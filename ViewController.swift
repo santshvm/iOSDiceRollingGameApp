@@ -24,8 +24,8 @@ class ViewController: UIViewController {
     @IBAction func rollButton(_ sender: Any) {
         
         /* Generating random dice images from the dice image array on the ROLL button being clicked by using the random() method*/
-        DiceImage1.image = diceImageArr[Int.random(in: 1...5)]
-        DiceImage2.image = diceImageArr[Int.random(in: 1...5)]
+        DiceImage1.image = diceImageArr[Int.random(in: 0...5)]
+        DiceImage2.image = diceImageArr[Int.random(in: 0...5)]
         
     }
     
