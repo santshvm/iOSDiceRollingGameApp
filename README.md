@@ -7,7 +7,7 @@ A dice roller iOS app where users can click a button to roll a dice.
 
 ##  Synopsis
 
-Diceee is an iOS application that allows users to roll a dice on the click of the 'ROLL' button. Basically what the application does is - it detects user interaction and responds to it appropriately by generating random dice images from an array of dice image literals. The User-Interface is very clean and simple. There are two UIImageViews that display single images of dice, each representing to player - 1 and player - 2. There is a UIBUtton named 'ROLL' at the bottom below the dice images that executes the custom code in response to user interactions generating ramdom dice images from an array of dice image literals. 
+Diceee is an iOS application that allows users to roll a dice on the click of the 'ROLL' button. Basically what the application does is - it detects user interaction and responds to it appropriately by generating random dice images from an array of dice image literals. The User-Interface is very clean and simple. There are two UIImageViews that display single images of dice, each representing  player - 1 and player - 2. There is a UIBUtton named 'ROLL' at the bottom below the dice images that executes the custom code in response to user interactions generating ramdom dice images from an array of dice image literals. 
 
 
 <img width="403" alt="Screenshot 2022-05-13 at 12 31 23 PM" src="https://user-images.githubusercontent.com/70855191/168234377-ae1c6da4-879a-426b-a3b5-b4a02ebccccc.png">.  
