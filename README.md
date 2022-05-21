@@ -47,7 +47,6 @@ Project Link: [https://github.com/santshvm/iOSDiceRollingGameApp](https://github
 * [https://github.com/appbrewery/Dicee-iOS13](https://github.com/appbrewery/Dicee-iOS13)
 
 
-This project was cloned from an [existing repo on GitHub](https://github.com/appbrewery/Dicee-iOS13) and thanks to  [Angela Yu](https://github.com/angelabauer) for providing the motivation to create this project. 
 
 
 
