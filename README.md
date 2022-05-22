@@ -1,17 +1,32 @@
 # Diceee
 
-
+<p align="center">
 <img width="85"  alt="Diceee AppIcon" src="https://user-images.githubusercontent.com/70855191/168229898-9c03e97f-437e-4fe3-8c48-81bec26895dc.png">
-
+</p>
+<br>
 A dice roller iOS app where users can click a button to roll a dice. 
 
 ##  Synopsis
 
 Diceee is an iOS application that allows users to roll a dice on the click of the 'ROLL' button. Basically what the application does is - it detects user interaction and responds to it appropriately by generating random dice images from an array of dice image literals. The User-Interface is very clean and simple. There are two UIImageViews that display single images of dice, each representing  player - 1 and player - 2. There is a UIBUtton named 'ROLL' at the bottom below the dice images that executes the custom code in response to user interactions generating ramdom dice images from an array of dice image literals. 
 
+<br> 
 
-<img width="403" alt="Screenshot 2022-05-13 at 12 31 23 PM" src="https://user-images.githubusercontent.com/70855191/168234377-ae1c6da4-879a-426b-a3b5-b4a02ebccccc.png">.  
-<img width="398" alt="Screenshot 2022-05-13 at 12 31 36 PM" src="https://user-images.githubusercontent.com/70855191/168234569-0926f8d6-506b-43fc-8f30-46742aef7dcb.png">
+<table> 
+  <tr>
+    <td > Before Clicking The ROLL butoon </td> 
+    <td> After Clicking The ROLL button </td>
+  </tr>
+  <tr> 
+    <td> <img width="403" alt="Screenshot 2022-05-13 at 12 31 23 PM" src="https://user-images.githubusercontent.com/70855191/168234377-ae1c6da4-879a-426b-a3b5-b4a02ebccccc.png"> </td> 
+    <td> <img width="398" alt="Screenshot 2022-05-13 at 12 31 36 PM" src="https://user-images.githubusercontent.com/70855191/168234569-0926f8d6-506b-43fc-8f30-46742aef7dcb.png"> </td> 
+  </tr>
+  </table>
+  
+
+
+
+ 
 
 The user can click the ROLL button any number of times to generate random dice images and get to decide who's the winner among player - 1 and player - 2 depending upon the number on the dice that is generated on the click of the button. 
 
